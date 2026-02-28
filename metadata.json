@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Toe Royale",
+  "description": "A complete Tic-Tac-Toe game featuring single-player AI (Minimax) and real-time multiplayer via Socket.io.",
+  "requestFramePermissions": []
+}
